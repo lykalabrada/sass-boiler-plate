@@ -1,0 +1,17 @@
+{
+  "name": "sass_starter_pack",
+  "version": "1.0.0",
+  "description": "Boiler plate for sass projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "author": "Lyka Labrada",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
